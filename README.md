@@ -7,7 +7,7 @@
 ```bash
 # Add your DATABASE URI in app.py and your mail params in send_mail.py
 
-# Install dependencies
+# Install dependencies#
 pipenv shell
 pipenv install
 
